@@ -2,7 +2,8 @@
 
 ## Description 🏝️
 
-Python for Data Science portfolio including different projects as regards Python language itself, data analysis and data science. 
+Python for Data Science portfolio including different projects as regards Python language practices, Data Science and Machine Learning.
+Each folder contains chronological order of projects according to their classification.
 
 ## Author 🖋
 **Francisco Giagnoni Copello**
